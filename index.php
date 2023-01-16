@@ -28,7 +28,6 @@ function insertRecord() {
 var in_name = $("#in_name").val();
 var in_address = $("#in_address").val();
 // Add more variables for each form field
-
 // Make an AJAX request to the server-side script
 $.ajax({
 url: "pdo_insert.php",
