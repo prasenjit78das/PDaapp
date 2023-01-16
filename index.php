@@ -4,7 +4,7 @@ require_once "pdo_connect.php";
 <!DOCTYPE html>
 <html>
 <head>
-<title>Sample page</title>
+<title>Sample page 1</title>
 <!--Bootstrap5-->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
