@@ -1,8 +1,8 @@
 <?php
-$host_name = "mysqldb1.cvz8vlzay5rg.us-east-1.rds.amazonaws.com";
+$host_name = "db-mysql-1.cgyknklpvgjc.us-east-1.rds.amazonaws.com";
 $db_name = "testDB11";
 $user_name = "admin";
-$password = "Pdas#2015";
+$password = "Pdas##2015";
 try {
 $pdo = new PDO("mysql:host=$host_name;dbname=$db_name", $user_name, $password);
 // set the PDO error mode to exception
